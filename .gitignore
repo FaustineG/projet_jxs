@@ -3,3 +3,5 @@ node_modules/
 
 # Built files
 dist/
+
+src/js/connexionDropbox.js
